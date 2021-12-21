@@ -6,6 +6,7 @@ Software: - Swift Language
           - CreateML
           - XCode
           Using the small-scale of images (35 images/type of animal), I then let them be trained by **CreateML** in **XCode**.
+
 Output: It runs successfully with different kind of tests. 
 <img width="1413" alt="Screen Shot 2021-12-20 at 3 11 03 AM" src="https://user-images.githubusercontent.com/76256179/146758759-9816afc5-ca02-4124-9699-d58fa1dcff79.png">
 <img width="1411" alt="Screen Shot 2021-12-20 at 3 11 01 AM" src="https://user-images.githubusercontent.com/76256179/146758833-a407b89e-a442-4837-a5e2-b9362691269c.png">
