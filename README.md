@@ -4,9 +4,10 @@ Context: The reason I did this was from my family. My cousin was just born almos
 
 Software: 
  
- Markup : * Swift (language)
-          * CreateML
-          * XCode
+ Markup : 1. Swift (language)
+          2. CreateML
+          3. XCode
+          
 Using the small-scale of images (35 images/type of animal), I then let them be trained by **CreateML** in **XCode**.
 
 Output: It runs successfully with different kind of tests. 
