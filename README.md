@@ -3,6 +3,7 @@
 Context: The reason I did this was from my family. My cousin was just born almost 8 months ago, and my uncle and aunt are confused in choosing which kind of source to teach him about letters, animals, etc. Based on my experience, I believe there is no way that we can learn better than looking at the images and define what are the differences between those animals. Therefore, I decided to create this in order to classify animals.
 
 Software: 
+ 
  Markup : * Swift (language)
           * CreateML
           * XCode
